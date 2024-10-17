@@ -1,6 +1,3 @@
---[[
-	WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!
-]]
 --[[Invisibility Toggle
 
 You can find the orginal concept here: https://v3rmillion.net/showthread.php?tid=544634
